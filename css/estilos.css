@@ -26,3 +26,15 @@ header {
     font-size: 0.85rem;
     padding: 0.5em 0.8em;
 }
+
+/* Estilo para imágenes de noticias */
+img {
+    width: 100%;
+    max-width: 500px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+}
